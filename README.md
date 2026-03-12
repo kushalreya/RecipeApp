@@ -12,9 +12,7 @@ A short demo video of the app is included below.
 
 🎥 Demo Video
 
-(Add your demo video or GIF here)
-
----
+https://github.com/user-attachments/assets/ff603303-63b5-4006-9ac5-3fa107c95b9b
 
 # ✨ Features
 
